@@ -21,7 +21,7 @@ The primary underlying goal of this assignment was to give us an introduction to
 
 # 2 Manual data-flow coverage calculations for X and Y methods
 
-Text…
+This will redirect you to the PDF containing the calculations and diagrams: [***CLICK HERE TO ACCESS THE PDF TITLED - Manual Data Flow Coverage - Group 33***](https://github.com/seng438-winter-2022/seng438-a3-Lucas-Ion/blob/main/Manual%20Data%20Flow%20Coverage%20-%20Group%2033.pdf)
 
 # 3 A detailed description of the testing strategy for the new unit test
 
@@ -78,7 +78,7 @@ As the result, the coverage percentage reaches 100% for all metrics as we primar
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 
-Text…
+This will redirect you to the Folder containing the screenshots: [***CLICK HERE TO ACCESS THE FOLDER TITLED - Verification of Coverage - Screenshots***](https://github.com/seng438-winter-2022/seng438-a3-Lucas-Ion/tree/main/Verification%20of%20Coverage%20-%20Screenshots)
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 
